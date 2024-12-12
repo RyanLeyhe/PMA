@@ -1,4 +1,16 @@
-[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-22041afd0340ce965d47ae6ef1cefeee28c7c493a6346c4f15d667ab976d596c.svg)](https://classroom.github.com/a/bknTyRar)
+My role: Scrum Master
+Major Features Contributed:
+* Google Login
+* AWS S3 (upload, delete, transcription configuration)
+* AWS Transcribe for audio/video transcriptions
+* Project view
+* File view
+* Private project
+* Max number of reviewers
+* Account settings
+* Project upvote system
+* Popular project view
+
 # CS 3240 Group B-10 Project
 This is a class project and is not actively monitored. No real information should be submitted to this application.
 
